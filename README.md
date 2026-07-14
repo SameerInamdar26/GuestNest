@@ -72,7 +72,7 @@
 
 ## 📞 Connect with Me
 
-**Sahil** - [Your GitHub Profile](https://github.com/SameerInamdar26)
+**Sameer** - [GitHub](https://github.com/SameerInamdar26)
 
 **Project Link**: [https://guest-nest-ui.vercel.app/]
 

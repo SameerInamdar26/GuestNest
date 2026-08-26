@@ -1,6 +1,6 @@
 .# 🏠 GuestNest
 
-> A full-stack property rental platform built with the MERN stack, inspired by Airbnb
+> A full-stack property rental platform built with the MERN stack.
 
 ![Homepage Screenshot](./screenshots/homepage.png)
 

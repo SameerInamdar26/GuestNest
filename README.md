@@ -1,4 +1,4 @@
-.# 🏠 GuestNest - Airbnb Clone
+.# 🏠 GuestNest
 
 > A full-stack property rental platform built with the MERN stack, inspired by Airbnb
 
@@ -7,7 +7,7 @@
 
 ## 🔍 Overview
 
-**GuestNest** is a complete property booking platform that allows users to list, discover, and book accommodations worldwide. This project was developed as part of the Apna College Sigma course curriculum, demonstrating full-stack development capabilities with modern web technologies.
+**GuestNest** is a complete property booking platform that allows users to list, discover, and book accommodations worldwide. 
 
 ### Key Highlights:
 - 🔐 Secure user authentication & authorization
